@@ -12,5 +12,5 @@ The first notebook of the tutorial only proivdes a high level overview of stereo
 
 
 links to videos created in this tutorial
-- 
+- https://youtu.be/urWtDv7KK6w
 
