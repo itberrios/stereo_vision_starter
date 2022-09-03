@@ -6,10 +6,15 @@ This repository will contain notebooks to provide a hands on approach to leanrin
 The first notebook of the tutorial only proivdes a high level overview of stereo vision, but it will provide insight into how it can be applied and will help motivate some of the more detailed concepts. 
 
 - kitti_starter &#8594; Basic Overview of Stereo Vision
+- kitti_starter_lidar &#8594; (Optional) See how Stereo Depth error varies with true depth
 
+<br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/60835780/188274290-66d7f5a1-5143-4285-80f5-f55958b491b1.png" width="620" height="376" />
 
+<br>
+<br>
 
 links to videos created in this tutorial
 - https://youtu.be/urWtDv7KK6w
